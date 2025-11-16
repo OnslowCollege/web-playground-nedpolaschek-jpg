@@ -25,6 +25,10 @@ a {
  color: blue;
 }
 
+p {
+ font-size: 25px;
+}
+
 h4 {
  text-align: center;
  margin-left: 80px;
@@ -33,3 +37,4 @@ h4 {
  bottom: 0;
 
 }
+
