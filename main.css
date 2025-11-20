@@ -16,8 +16,9 @@ h2 {
 }
 
 img {
- width: 33%;
- height: 33%;
+ max-width: 100%;
+ height: auto;
+ padding: 10px;
 }
 
 a {
@@ -29,6 +30,10 @@ p {
  font-size: 25px;
 }
 
+h3 {
+ font-size: 40px;
+}
+
 h4 {
  text-align: center;
  margin-left: 80px;
@@ -36,6 +41,7 @@ h4 {
  position: fixed;
  bottom: 0;
 }
+
 
 
 
